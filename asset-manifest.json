@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/elo-foosball/static/css/main.073c9b0a.css",
-    "main.js": "/elo-foosball/static/js/main.11535ddf.js",
+    "main.css": "/elo-foosball/static/css/main.ac360dcb.css",
+    "main.js": "/elo-foosball/static/js/main.cee6e598.js",
     "static/js/787.9a272140.chunk.js": "/elo-foosball/static/js/787.9a272140.chunk.js",
-    "static/media/pngwing.com.png": "/elo-foosball/static/media/pngwing.com.0ae4baa523e9b9d26e4f.png",
     "index.html": "/elo-foosball/index.html",
-    "main.073c9b0a.css.map": "/elo-foosball/static/css/main.073c9b0a.css.map",
-    "main.11535ddf.js.map": "/elo-foosball/static/js/main.11535ddf.js.map",
+    "main.ac360dcb.css.map": "/elo-foosball/static/css/main.ac360dcb.css.map",
+    "main.cee6e598.js.map": "/elo-foosball/static/js/main.cee6e598.js.map",
     "787.9a272140.chunk.js.map": "/elo-foosball/static/js/787.9a272140.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.11535ddf.js"
+    "static/css/main.ac360dcb.css",
+    "static/js/main.cee6e598.js"
   ]
 }
