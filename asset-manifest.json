@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/elo-foosball/static/css/main.d4e5d9e0.css",
+    "main.css": "/elo-foosball/static/css/main.c5911d38.css",
     "main.js": "/elo-foosball/static/js/main.c3401789.js",
     "static/js/787.9a272140.chunk.js": "/elo-foosball/static/js/787.9a272140.chunk.js",
     "static/media/14th.jpg": "/elo-foosball/static/media/14th.adbd8cacf470d2d18357.jpg",
     "index.html": "/elo-foosball/index.html",
-    "main.d4e5d9e0.css.map": "/elo-foosball/static/css/main.d4e5d9e0.css.map",
+    "main.c5911d38.css.map": "/elo-foosball/static/css/main.c5911d38.css.map",
     "main.c3401789.js.map": "/elo-foosball/static/js/main.c3401789.js.map",
     "787.9a272140.chunk.js.map": "/elo-foosball/static/js/787.9a272140.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4e5d9e0.css",
+    "static/css/main.c5911d38.css",
     "static/js/main.c3401789.js"
   ]
 }
